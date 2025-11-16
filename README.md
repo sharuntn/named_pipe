@@ -21,6 +21,8 @@ This repository is intended for:
 /C-Programs-Collection
 ├── half_duplex_fifo.c
 ├── full_duplex_fifo.c
+├── named_wrt.c     
+├── named_read.c 
 ├── order_preserving.c
 ├── bounded_buffer.c
 ├── perseverance_data.c
